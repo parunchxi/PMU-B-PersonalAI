@@ -1,12 +1,12 @@
-# Personal AI Portfolio
+# 🗂️ Personal AI Portfolio
 
 Welcome to the Portfolio of My Journey in the Personal AI Course at E-SAN Thailand Coding & AI Academy Season 2!
 
-## About Me
+## 🧑‍💻 About Me
 
 I’m Parunchai Kaewkhampa (ETPCA-S0250), a computer engineering student at King Mongkut's University of Technology Thonburi. I am passionate about creating innovative solutions to build a better world.
 
-## Curriculum Overview
+## 🌟 Curriculum Overview
 
 The table below summarizes the different chapters I completed during the course. Each module focuses on a specific area of artificial intelligence and its real-world applications:
 | **Chapter** | **Course Name** | **Note** | **Workshop** | **Certificate** |
@@ -18,30 +18,30 @@ The table below summarizes the different chapters I completed during the course.
 | 5 | BiTNet: AI for diagnosing ultrasound image | [📝](/Course_Collection/05_BiTNet/Note.md) | [🛠️](/Course_Collection/05_BiTNet/Workshop/PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb) | [✅](https://powerclass.org/tutor-certificate-3/?cert_hash=c11ad104d2be91b0) |
 | 6 | AI for arresting criminals | [📝](/Course_Collection/06_Criminals/Note.md) | [🛠️](/Course_Collection/06_Criminals/Workshop/Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb) | [✅](https://powerclass.org/tutor-certificate-3/?cert_hash=7fbb73332203ac98) |
 
-## Course Details
+## 📒 Course Details
 
 These courses provided me with hands-on experience and technical knowledge, highlighting the transformative potential of AI across diverse fields. Each course demonstrated how AI can address real-world challenges and drive innovation.
 
-### xPore: An AI-Powered App for Bioinformaticians
+### 🧬 xPore: An AI-Powered App for Bioinformaticians
 
 Explored xPore, an AI tool for detecting RNA modifications like m6A using Nanopore sequencing data. Learned data processing, Bayesian modeling, and validation methods.
 
-### Learning from Biosignal
+### 🛌 Learning from Biosignal
 
 Analyzed biosignals like EEG for medical diagnostics, focusing on sleep stage classification using models such as DeepSleepNet and TinySleepNet. Covered signal preprocessing, feature extraction, and portable health monitoring systems.
 
-### AI for detecting code plagiarism
+### 💎 AI for detecting code plagiarism
 
 Studied AI-based code clone detection with tools like Merry. Learned clone types, detection processes, and ML models (e.g., Random Forest, SVM). Applied BigCloneBench and code2vec for semantic analysis.
 
-### Mental disorder detection from social media data
+### 🌐 Mental disorder detection from social media data
 
 Learned to predict mental health disorders, such as depression, using social media data. Topics included feature extraction (e.g., LIWC) and supervised models like Random Forest.
 
-### BiTNet: AI for diagnosing ultrasound image
+### 🩻 BiTNet: AI for diagnosing ultrasound image
 
 Developed diagnostic skills using BiTNet with EfficientNet-B5 for ultrasound image classification. Explored auto pre-screening, data augmentation, and statistical evaluations.
 
-### AI for arresting criminals
+### 👮‍♂️ AI for arresting criminals
 
 Examined YOLO-based real-time object detection for suspect and vehicle tracking. Covered YOLO architecture, NMS, and advancements like YOLOv8, enhancing public safety and police efficiency.
