@@ -15,5 +15,5 @@ The table below summarizes the different chapters I completed during the course.
 | 2 | Learning from Biosignal |[📝](/Course_Collection/02_Biosignal/Note.md) | [🛠️](/Course_Collection/02_Biosignal/Workshop/model.py) | [✅](https://powerclass.org/tutor-certificate-3/?cert_hash=c2cea8765af73296) |
 | 3 | AI for detecting code plagiarism | [📝](/Course_Collection/03_CodeClone/Note.md) | [🛠️](/Course_Collection/03_CodeClone/Workshop/PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb) | [✅](https://powerclass.org/tutor-certificate-3/?cert_hash=2eea07a00ca7f4c3) |
 | 4 | Mental disorder detection from social media data | [📝](/Course_Collection/04_SocialMedia/Note.md) | [🛠️](/Course_Collection/04_SocialMedia/Workshop/E_san_coding.ipynb) | [✅](https://powerclass.org/tutor-certificate-3/?cert_hash=af846c36fe02fbee) |
-| 5 | BiTNet: AI for diagnosing ultrasound image | 🔄 | 🔄 | 🔄 |
+| 5 | BiTNet: AI for diagnosing ultrasound image | [📝](/Course_Collection/05_BiTNet/Note.md) | [🛠️](/Course_Collection/05_BiTNet/Workshop/PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb) | [✅](https://powerclass.org/tutor-certificate-3/?cert_hash=c11ad104d2be91b0) |
 | 6 | AI for arresting criminals | 🔄 | 🔄 | 🔄 |
