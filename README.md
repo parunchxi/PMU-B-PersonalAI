@@ -45,3 +45,6 @@ Developed diagnostic skills using BiTNet with EfficientNet-B5 for ultrasound ima
 ### 👮‍♂️ AI for arresting criminals
 
 Examined YOLO-based real-time object detection for suspect and vehicle tracking. Covered YOLO architecture, NMS, and advancements like YOLOv8, enhancing public safety and police efficiency.
+
+## 📀 Presentation Video
+[![Cover](https://github.com/user-attachments/assets/33592d9b-3e72-4fd1-8d2f-e45ec1f67bf8)](https://youtu.be/1dWzx8k40Qk)
